@@ -6,8 +6,6 @@ A simple yet beautifully styled calculator built using **HTML**, **CSS**, and **
 
 ![Calculator Screenshot](uhuhuh.png)
 
-> 💡 You can add a screenshot of the calculator in the same folder and name it `preview.png` for the above image to show up.
-
 ---
 
 ## 🚀 Features
@@ -31,7 +29,7 @@ A simple yet beautifully styled calculator built using **HTML**, **CSS**, and **
 ## 📂 File Structure
 ├── index.html # Main HTML structure
 ├── style.css # Styling for the calculator
-├── preview.png # Optional screenshot (add manually)
+├── preview.png 
 
 
 ---
